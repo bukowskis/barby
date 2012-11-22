@@ -1,5 +1,5 @@
+# -*- coding: us-ascii -*-
 require 'barby/barcode'
-
 module Barby
 
 
